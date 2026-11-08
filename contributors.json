@@ -5,12 +5,12 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 118,
-                "percentage": 43.87
+                "contributions": 143,
+                "percentage": 41.81
             },
             "swi-metobs-backend": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-backend",
-                "contributions": 153,
+                "contributions": 167,
                 "percentage": 100.0
             },
             "swi-metobs-caching": {
@@ -124,7 +124,7 @@
                 "percentage": 100.0
             }
         },
-        "contributions": 2310,
+        "contributions": 2349,
         "name": "LouisPauchet",
         "type": "User"
     },
@@ -134,11 +134,11 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 151,
-                "percentage": 56.13
+                "contributions": 199,
+                "percentage": 58.19
             }
         },
-        "contributions": 151,
+        "contributions": 199,
         "name": "josselinonduty",
         "type": "User"
     },
