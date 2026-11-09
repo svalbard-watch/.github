@@ -5,8 +5,8 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 143,
-                "percentage": 41.81
+                "contributions": 164,
+                "percentage": 44.32
             },
             "swi-metobs-backend": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-backend",
@@ -122,9 +122,14 @@
                 "url": "https://github.com/svalbard-watch/swi-shared-workflows",
                 "contributions": 10,
                 "percentage": 100.0
+            },
+            "umani-production-deployment": {
+                "url": "https://github.com/svalbard-watch/umani-production-deployment",
+                "contributions": 13,
+                "percentage": 100.0
             }
         },
-        "contributions": 2349,
+        "contributions": 2383,
         "name": "LouisPauchet",
         "type": "User"
     },
@@ -134,11 +139,11 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 199,
-                "percentage": 58.19
+                "contributions": 206,
+                "percentage": 55.68
             }
         },
-        "contributions": 199,
+        "contributions": 206,
         "name": "josselinonduty",
         "type": "User"
     },
