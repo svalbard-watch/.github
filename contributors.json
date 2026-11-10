@@ -5,12 +5,12 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 164,
-                "percentage": 44.32
+                "contributions": 166,
+                "percentage": 44.5
             },
             "swi-metobs-backend": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-backend",
-                "contributions": 167,
+                "contributions": 168,
                 "percentage": 100.0
             },
             "swi-metobs-caching": {
@@ -25,7 +25,7 @@
             },
             "swi-elevationapi": {
                 "url": "https://github.com/svalbard-watch/swi-elevationapi",
-                "contributions": 41,
+                "contributions": 44,
                 "percentage": 100.0
             },
             "swi-deegree3-configuration": {
@@ -55,7 +55,7 @@
             },
             "swi-mapproxy": {
                 "url": "https://github.com/svalbard-watch/swi-mapproxy",
-                "contributions": 46,
+                "contributions": 48,
                 "percentage": 100.0
             },
             "swi-mapproxy-configuration": {
@@ -110,8 +110,8 @@
             },
             "swi-avalanche-caching": {
                 "url": "https://github.com/svalbard-watch/swi-avalanche-caching",
-                "contributions": 515,
-                "percentage": 98.85
+                "contributions": 521,
+                "percentage": 98.86
             },
             "swi-sentinel-processing": {
                 "url": "https://github.com/svalbard-watch/swi-sentinel-processing",
@@ -125,11 +125,11 @@
             },
             "umani-production-deployment": {
                 "url": "https://github.com/svalbard-watch/umani-production-deployment",
-                "contributions": 13,
+                "contributions": 14,
                 "percentage": 100.0
             }
         },
-        "contributions": 2383,
+        "contributions": 2398,
         "name": "LouisPauchet",
         "type": "User"
     },
@@ -139,11 +139,11 @@
         "repos": {
             "swi-frontend": {
                 "url": "https://github.com/svalbard-watch",
-                "contributions": 206,
-                "percentage": 55.68
+                "contributions": 207,
+                "percentage": 55.5
             }
         },
-        "contributions": 206,
+        "contributions": 207,
         "name": "josselinonduty",
         "type": "User"
     },
@@ -159,7 +159,7 @@
             "swi-avalanche-caching": {
                 "url": "https://github.com/svalbard-watch/swi-avalanche-caching",
                 "contributions": 6,
-                "percentage": 1.15
+                "percentage": 1.14
             }
         },
         "contributions": 18,
