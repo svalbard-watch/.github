@@ -15,8 +15,8 @@
             },
             "swi-metobs-caching": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-caching",
-                "contributions": 966,
-                "percentage": 98.77
+                "contributions": 988,
+                "percentage": 98.8
             },
             "swi-mapcache-seaice": {
                 "url": "https://github.com/svalbard-watch/swi-mapcache-seaice",
@@ -45,7 +45,7 @@
             },
             "swi-metobs-station-configuration": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-station-configuration",
-                "contributions": 11,
+                "contributions": 27,
                 "percentage": 100.0
             },
             "deployment_dev_env": {
@@ -125,11 +125,11 @@
             },
             "umani-production-deployment": {
                 "url": "https://github.com/svalbard-watch/umani-production-deployment",
-                "contributions": 14,
+                "contributions": 15,
                 "percentage": 100.0
             }
         },
-        "contributions": 2398,
+        "contributions": 2437,
         "name": "LouisPauchet",
         "type": "User"
     },
@@ -154,7 +154,7 @@
             "swi-metobs-caching": {
                 "url": "https://github.com/svalbard-watch/swi-metobs-caching",
                 "contributions": 12,
-                "percentage": 1.23
+                "percentage": 1.2
             },
             "swi-avalanche-caching": {
                 "url": "https://github.com/svalbard-watch/swi-avalanche-caching",
