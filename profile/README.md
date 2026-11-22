@@ -4,7 +4,7 @@ A trip planning web app for Svalbard, designed to provide real time weather info
 
 Thank you to all our contributors for your hard work and dedication!
 
-Any bug report or general issues can be reported on [UNIS-Svalbard-Weather-Information/SWI](https://github.com/UNIS-Svalbard-Weather-Information/SWI).
+Any bug report or general issues can be reported on [svalbard-watch/SWI](https://github.com/svalbard-watch/SWI).
 
 ## Our Contributors
 
