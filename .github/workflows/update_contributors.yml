@@ -191,7 +191,7 @@ jobs:
               f.write("# Svalbard Weather Information\n\n")
               f.write("A trip planning web app for Svalbard, designed to provide real time weather information and forecast and help you plan your adventures safely and efficiently.\n\n")
               f.write("Thank you to all our contributors for your hard work and dedication!\n\n")
-              f.write("Any bug report or general issues can be reported on [UNIS-Svalbard-Weather-Information/SWI](https://github.com/UNIS-Svalbard-Weather-Information/SWI).\n\n")
+              f.write("Any bug report or general issues can be reported on [svalbard-watch/SWI](https://github.com/svalbard-watch/SWI).\n\n")
               f.write("## Our Contributors\n\n")
               f.write("Here is a list of our contributors, the repositories they have contributed to, and their total contributions:\n\n")
               write_table(f, sorted_contributors)
